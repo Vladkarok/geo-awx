@@ -1,0 +1,6 @@
+---
+- name: DB
+  hosts: db
+  become: true
+  roles:
+    - vladkarok.geo_db

@@ -1,0 +1,6 @@
+---
+- name: Web
+  hosts: web
+  become: true
+  roles:
+    - vladkarok.geo_web
