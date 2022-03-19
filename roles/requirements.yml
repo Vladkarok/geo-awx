@@ -1,0 +1,4 @@
+---
+roles:
+  - name: vladkarok.geo_db
+  - name: vladkarok.geo_web
